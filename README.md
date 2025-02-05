@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Perla Sri Sai Srinidh! 👋</h1>
+<h1 align="center">Hi, I'm Srinidh Perla! 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Web_Developer-blue?style=flat-square&logo=appveyor" />&nbsp
   <img src="https://img.shields.io/badge/Languages-C,C++,Python,HTML,CSS,JS-orange?style=flat-square" />&nbsp
@@ -54,19 +54,19 @@ Here are some of my notable projects:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KandukuriAmar&show_icons=true&theme=radical" width="400" />&nbsp
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KandukuriAmar&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srinidhperla&show_icons=true&theme=radical" width="400" />&nbsp
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhperla&theme=dark" width="400" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/kandukuri-amar-nadh-2631a72b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-KandukuriAmar-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/srinidhperla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-SrinidhPerla-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/KandukuriAmar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-KandukuriAmar-lightgrey?style=flat-square&logo=github" />
+  <a href="https://github.com/srinidhperla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SrinidhPerla-lightgrey?style=flat-square&logo=github" />
   </a>
 </p>
 
