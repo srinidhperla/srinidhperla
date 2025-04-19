@@ -62,7 +62,7 @@ Here are some of my notable projects:
 
 ## 📫 Connect with Me  
 <p align="left">
-  <a href="[https://www.linkedin.com/in/srinidhperla/](https://www.linkedin.com/in/srinidh-perla/)" target="_blank">
+  <a href="https://www.linkedin.com/in/srinidh-perla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-SrinidhPerla-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/srinidhperla" target="_blank">
