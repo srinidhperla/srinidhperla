@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Srinidh Perla! 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Web_Developer-blue?style=flat-square&logo=appveyor" />&nbsp
-  <img src="https://img.shields.io/badge/Languages-C,C++,Python,HTML,CSS,JS-orange?style=flat-square" />&nbsp
+  <img src="https://img.shields.io/badge/Languages-C,Python,HTML,CSS,JS-orange?style=flat-square" />&nbsp
   <img src="https://img.shields.io/badge/Currently_Learning-Deep_Learning,ML,CV2-green?style=flat-square" />&nbsp
 </p>
 
